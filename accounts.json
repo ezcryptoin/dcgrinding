@@ -1,0 +1,21 @@
+{
+"guild_id": "......",
+  "channel_id": ".....",
+  "accounts": [
+    {
+      "name": "akun1",
+      "token": ".......",
+      "user_id": "........"
+    },
+    {
+      "name": "akun2",
+      "token": "........",
+      "user_id": "......"
+    },
+    {
+      "name": "akun3",
+      "token": "......",
+      "user_id": "......."
+    }
+  ]
+}    
