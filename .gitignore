@@ -1,0 +1,38 @@
+# --- RAHASIA & AKUN (SANGAT PENTING) ---
+# Jangan pernah upload ini ke GitHub!
+.env
+accounts.json
+config.json
+secrets.json
+*.key
+*.token
+
+# --- PYTHON ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+*.egg
+
+# --- VIRTUAL ENVIRONMENT ---
+venv/
+ENV/
+env/
+.venv/
+
+# --- LOGS ---
+# Log bisa berisi data sensitif
+*.log
+logs/
+nohup.out
+
+# --- EDITOR ---
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
